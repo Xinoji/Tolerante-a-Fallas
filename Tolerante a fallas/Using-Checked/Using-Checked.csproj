@@ -9,4 +9,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Using.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Using.cs" />
+  </ItemGroup>
+
 </Project>

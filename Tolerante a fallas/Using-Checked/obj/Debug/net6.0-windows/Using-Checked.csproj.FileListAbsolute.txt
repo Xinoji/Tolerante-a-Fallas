@@ -1,0 +1,17 @@
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using_Checked.Form1.resources
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.csproj.GenerateResource.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.AssemblyInfo.cs
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\bin\Debug\net6.0-windows\Using-Checked.exe
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\bin\Debug\net6.0-windows\Using-Checked.deps.json
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\bin\Debug\net6.0-windows\Using-Checked.runtimeconfig.json
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\bin\Debug\net6.0-windows\Using-Checked.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\bin\Debug\net6.0-windows\Using-Checked.pdb
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\refint\Using-Checked.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.pdb
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\Using-Checked.genruntimeconfig.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Using-Checked\obj\Debug\net6.0-windows\ref\Using-Checked.dll

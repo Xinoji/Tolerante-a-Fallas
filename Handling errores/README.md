@@ -71,6 +71,9 @@ En este caso la primera al ser unchecked simplemente realiza la rotacion de bits
 
 Siendo asi las formas en las que se puede usar checked, que dependiendo como queremos que funcionen las operaciones es las formas en las que se adapta su forma de funcionar.
 
+
+
+
 Para mostrar el funcionamiento y comprobarlo es posible usar el debugger de visual studio y comprobor desde la inspeccion que aunque tengan el mismo valor efectivamente realiza el cambio.
 
 ### Conclusiones
