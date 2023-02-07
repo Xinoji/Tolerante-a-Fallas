@@ -1,0 +1,17 @@
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\bin\Debug\net6.0-windows\Checkpoints.exe
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\bin\Debug\net6.0-windows\Checkpoints.deps.json
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\bin\Debug\net6.0-windows\Checkpoints.runtimeconfig.json
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\bin\Debug\net6.0-windows\Checkpoints.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\bin\Debug\net6.0-windows\Checkpoints.pdb
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.Form1.resources
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.csproj.GenerateResource.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.AssemblyInfo.cs
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\refint\Checkpoints.dll
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.pdb
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\Checkpoints.genruntimeconfig.cache
+C:\Users\jonat\Documents\universidad\Tolerante a Fallas\git\Tolerante-a-Fallas\Tolerante a fallas\Checkpoints\obj\Debug\net6.0-windows\ref\Checkpoints.dll
