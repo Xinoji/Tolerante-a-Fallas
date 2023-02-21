@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\bin\Release\ProcessState.exe.config
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\bin\Release\ProcessState.exe
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\bin\Release\ProcessState.pdb
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.Status.resources
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.exe
+C:\Users\DELL\Desktop\Tolerante a fallas\Tolerante a fallas\ProcessState\obj\Release\ProcessState.pdb

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using-Checked", "Using-Checked\Using-Checked.csproj", "{969B1F81-3185-48CD-BC9A-903E84920401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkpoints", "Checkpoints\Checkpoints.csproj", "{E4D0986D-B379-46D1-BCF0-F442F81BA2A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkpoints", "Checkpoints\Checkpoints.csproj", "{E4D0986D-B379-46D1-BCF0-F442F81BA2A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessState", "ProcessState\ProcessState.csproj", "{AD0E7757-E519-4CAC-B578-01D9BBA8CDE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E4D0986D-B379-46D1-BCF0-F442F81BA2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D0986D-B379-46D1-BCF0-F442F81BA2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D0986D-B379-46D1-BCF0-F442F81BA2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0E7757-E519-4CAC-B578-01D9BBA8CDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0E7757-E519-4CAC-B578-01D9BBA8CDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0E7757-E519-4CAC-B578-01D9BBA8CDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0E7757-E519-4CAC-B578-01D9BBA8CDE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
