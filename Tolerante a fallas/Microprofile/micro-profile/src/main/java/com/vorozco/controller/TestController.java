@@ -1,7 +1,10 @@
 package com.vorozco.controller;
 
-import com.vorozco.model.Person;
-import org.eclipse.microprofile.faulttolerance.*;
+import com.vorozco.model.Tag;
+import org.eclipse.microprofile.faulttolerance.Bulkhead;
+import org.eclipse.microprofile.faulttolerance.CircuitBreaker;
+import org.eclipse.microprofile.faulttolerance.Fallback;
+import org.eclipse.microprofile.faulttolerance.Retry;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -12,29 +15,27 @@ import java.util.List;
 import java.util.Random;
 import java.util.logging.Logger;
 
-@Path("/persons")
+@Path("/Test")
 @Produces(MediaType.APPLICATION_JSON)
-public class PersonController {
+public class TestController {
 
-    List<Person> personList = new ArrayList<>();
+    List<Tag> tagList = new ArrayList<>();
     Logger LOGGER = Logger.getLogger("Demologger");
 
     @GET
-    //@Timeout(value = 5000L)
-    //@Retry(maxRetries = 4)
-    //@CircuitBreaker(failureRatio = 0.1, delay = 15000L)
-    //@Bulkhead(value = 0)
-    @Fallback(fallbackMethod = "getPersonFallbackList")
-    public List<Person> getPersonList(){
+    @Retry(maxRetries = 4)
+    @CircuitBreaker(failureRatio = 0.1, delay = 15000L)
+    @Bulkhead(value = 0)
+    @Fallback(fallbackMethod = "getTagFallbackList")
+    public List<Tag> getTagList(){
         LOGGER.info("Ejecutando");
-        doFail();
-        //doWait();
-        return this.personList;
+        doWait();
+        return this.tagList;
     }
 
-    public List<Person> getPersonFallbackList(){
-        var person = new Person(-1L, "Isaac", "Jigh@testMail.com");
-        return List.of(person);
+    public List<Tag> getTagFallbackList(){
+        var Tag = new Tag(-1L, -1L, "Red");
+        return List.of(Tag);
     }
 
     public void doWait(){
@@ -54,6 +55,5 @@ public class PersonController {
             throw  new RuntimeException("Implementacion falle");
         }
     }
-
 
 }
