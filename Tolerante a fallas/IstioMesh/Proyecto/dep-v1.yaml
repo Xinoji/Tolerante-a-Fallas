@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jonathan-garcia-istio-deployment
+  labels:
+    app: jonathangkubernetes
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: jonathangkubernetes
+  template:
+    metadata:
+      labels:
+        app: jonathangkubernetes  
+    spec:
+      containers:
+      - name: jonathangkubernetes
+        image: Xinoji/test_istio:1.0
+        ports:
+        - containerPort: 8000
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: jonathan-garcia-istio-service
+  labels:
+    app: jonathan-garcia-istio-service
+spec:
+  selector:
+    app: jonathangkubernetes
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 8000
+  sessionAffinity: None
