@@ -1,4 +1,6 @@
-
+##### CUCEI Jonathan Isaac Garcia Huerta 216818631
+##### Computacion tolerante a falla
+# Cheeky Monkey
 
 ### Introduccion
 Usualmente cuando se esta realizando un proyecto es necesario tener en cuenta como se puede realizar este mismo de una forma en la cual pueda ser tolerante a fallas, pero una forma de poder simular fallas directamente es realizado propias caidas del sistem utilizando Chaos Engineering, en vez de provocar o similar errores dentro del propio sistema lo que puede provocar son errores directos en los pods para ver como se podra comportar el sistema ante estas situaciones.
